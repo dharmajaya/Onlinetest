@@ -13,7 +13,7 @@
 	<header class="global-header">
 	<div>
 		<nav class="global-nav"> <img width="150"
-			title="ANS" alt="ANS" src="${ctx }/resoures/images/ans.png">
+			title="ANS" alt="ANS" src="${ctx}/resoures/images/ans.png">
 		</nav>
 	</div>
 	</header>
