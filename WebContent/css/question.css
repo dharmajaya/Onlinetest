@@ -1,0 +1,51 @@
+/* 
+    Document   : style
+    Author     : pratik
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.errorMessage{
+    color: darkred;
+}
+
+#display{
+    color:red;
+}
+div { font-family:Verdana, Geneva, sans-serif; font-size: smaller }
+h2 { font-family:Verdana, Geneva, sans-serif; font-size: medium }
+
+
+#dis {
+    text-align:center;
+    height: 25px;
+    width: 250px;                  
+}
+
+.button {
+    cursor: pointer; 
+    background: none repeat scroll 0 0 #2E9FFF;
+    border: medium none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: none;
+    color: #FFFFFF;
+    margin-top: 2%;
+    padding: 12px 16px;
+    width: 20.5%;
+    font-size: 100%;
+}
+
+#webcam {
+	border: black 1px solid black; 
+	float: right;
+	z-index: 9999; 
+	display: block; 
+	height: 240px; 
+	width: 320px; 
+	bottom: 8px;
+	position: absolute;
+}
